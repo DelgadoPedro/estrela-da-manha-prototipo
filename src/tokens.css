@@ -1,0 +1,20 @@
+:root {
+  --fundo:#f5f9f3; --superficie:#ffffff; --superficie-suave:#f7faf6;
+  --borda:#dce7d8; --borda-campo:#839785;
+  --texto:#172b22; --texto-2:#2c4236; --texto-suave:#4a5d52;
+  --verde:#1f7a3a; --verde-escuro:#165c2b; --verde-claro:#e3f2e5; --verde-folha:#3fa557; --verde-menta:#a9d9ae;
+  --amarelo:#f7d800; --amarelo-borda:#c9a800;
+  --sucesso:#1e6b45; --sucesso-claro:#e3f3ea;
+  --alerta:#6e4700; --alerta-claro:#fff3d6; --alerta-borda:#e0b865;
+  --perigo:#a12a21; --perigo-claro:#fbeae8; --perigo-borda:#e8c3bf;
+  --infantil:#1e4f94; --infantil-claro:#e5eefa;
+  --contraturno:#5b3390; --contraturno-claro:#f0e8f8;
+  --oficinas:#9a3f15; --oficinas-claro:#fcebe2;
+  --sobreposicao:rgba(23,43,34,.58);
+  --sombra-janela:0 24px 60px rgba(10,30,20,.35);
+  --espaco-1:4px; --espaco-2:8px; --espaco-3:12px; --espaco-4:16px; --espaco-6:24px; --espaco-8:32px; --espaco-12:48px;
+  --raio-sm:8px; --raio-md:12px; --raio-lg:14px; --raio-xl:22px; --raio-2xl:28px; --raio-pilula:999px;
+  --alvo-min:44px; --alvo-botao:52px; --alvo-campo:56px;
+  --altura-barra:78px; --largura-util:1176px;
+  --fonte:'Inter',system-ui,sans-serif;
+}
